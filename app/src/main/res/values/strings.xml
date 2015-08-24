@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DevUtils</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dev_tools">开发工具</string>
+    <string name="dp_2_px">dp转px</string>
+    <string name="px_2_dp">px转dp</string>
+    <string name="convert">转换</string>
+    <string name="btn_convert">转换</string>
+    <string name="dp">dp</string>
+    <string name="px">px</string>
+    <string name="pls_input_dp_value">请输入dp的值</string>
+    <string name="pls_input_px_value">请输入px的值</string>
+    <string name="ok">确定</string>
+</resources>
